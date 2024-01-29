@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Manivessary
-- 👀 I’m interested in Image Processing
-- 🌱 I’m currently learning using Python to Image Processing
+- 👋 Hi, I’m Sami
+- 👀 I’m interested in Image Processing.
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
